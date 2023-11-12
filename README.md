@@ -1,24 +1,29 @@
 <br>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+%3AD;I'm+Ricardo+Carvalho+dos+Santos;A+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
-</p>
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=30&duration=2000&pause=1000&vCenter=true&random=false&width=600&lines=Hello+World!+%F0%9F%8C%8E;I'm+Ricardo+%F0%9F%A7%91%F0%9F%8F%BF%E2%80%8D%F0%9F%A6%B1;A+Full+Stack+Web+Developer+%F0%9F%91%A8%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB;Welcome!+%F0%9F%99%8B%F0%9F%8F%BF)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <b> About Me</b>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=30&duration=2000&pause=1000&vCenter=true&repeat=false&random=false&width=600&lines=About+Me)
 <br>
-- trying to find out :D
+- Systems Analysis and Development Student at UFPR
+- Cat lover 😻
+- Soon (may,24), I'll become a boy's father 🫃🏿
 
-<br><br>
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <b> Skills</b>
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=30&duration=2000&pause=1000&vCenter=true&repeat=false&random=false&width=600&lines=Skills)
 <p align="center"> 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <br>
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -29,7 +34,8 @@
 ![PrismaORM](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 <br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&vCenter=true&random=false&width=600&lines=Loading..." alt="Typing SVG" /></a></a><br>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=30&duration=2000&pause=1000&vCenter=true&random=false&width=600&lines=Loading...)
+<br>
 ![Next](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -37,7 +43,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=30&duration=1&pause=1000&vCenter=true&repeat=false&random=false&width=600&lines=Github+Status)
 <br>
 
 <div align="justify">
@@ -49,7 +55,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <b> Let's Connect..!</b>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=30&duration=2000&pause=1000&vCenter=true&repeat=false&random=false&width=600&lines=Let's+Connect!)
 <br>
 <div align='left'>
 <a href="https://linkedin.com/in/ricarvsan" target="_blank">
