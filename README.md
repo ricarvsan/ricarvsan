@@ -7,9 +7,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=30&duration=2000&pause=1000&vCenter=true&repeat=false&random=false&width=600&lines=About+Me)
 <br>
-- Systems Analysis and Development Student at UFPR
+- Systems Analysis and Development Student at Positivo University
 - Cat lover 😻
-- Soon (may,24), I'll become a boy's father 🫃🏿
+- a new born boy's father 🫃🏿
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
